@@ -25,7 +25,8 @@ Hospitals often face challenges such as long wait times, inconsistent patient sa
 3. Explore or customize the visuals as needed.
 
 ## 🔗LinkedIn Post:
-Feel free to check out the LinkedIn post➡️https://www.linkedin.com/posts/sudhanshu-kumar-714b72296_hospital-emergency-room-dashboard-activity-7334175329843904512-LjvM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEe4LIABj2nCyO9IAZ7JuvcSqUXezwbGT-E where I shared this dashboard and discussed its real-world use cases.
+Feel free to check out the LinkedIn post➡️ https://www.linkedin.com/posts/sudhanshu-kumar-714b72296_hospital-emergency-room-dashboard-activity-7334175329843904512-LjvM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEe4LIABj2nCyO9IAZ7JuvcSqUXezwbGT-E
+ where I shared this dashboard and discussed its real-world use cases.
 
 ## 📁 Practice File:
 I’ve added a **practice file** in this repo to help learners build the dashboard themselves and understand each visual step-by-step.
